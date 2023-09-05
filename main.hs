@@ -60,7 +60,7 @@ prop_Exercise6 n = (case fizzBuzz n of
 -- main
 
 main = do
-  putStrLn "Exercise 1: no automated tests"
+  putStrLn "Exercise 1: OK (no automated tests)."
   putStrLn "Exercise 2, function f1:"
   quickCheck prop_Exercise2_f1
   putStrLn "Exercise 2, function f2:"
