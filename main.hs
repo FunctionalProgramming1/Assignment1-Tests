@@ -71,7 +71,7 @@ main = do
   quickCheck prop_Exercise2_f4
   putStrLn "Exercise 2, function f5:"
   quickCheck prop_Exercise2_f5
-  putStrLn "Exercise 2, function f5:"
+  putStrLn "Exercise 2, function f6:"
   quickCheck prop_Exercise2_f6
   putStrLn "Exercise 3:"
   quickCheck prop_Exercise3
